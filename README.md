@@ -1,1 +1,1 @@
-![](github-constellation-R0kshan.svg)
+![](my-github-constellation.svg)
