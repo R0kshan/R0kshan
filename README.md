@@ -1,2 +1,2 @@
-![](my-github-constellation.svg)
+![](my-github-constellation-1.svg)
 
